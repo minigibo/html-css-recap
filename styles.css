@@ -106,5 +106,6 @@ img{
 footer{
     text-align: center;
     padding: 10px;
-    font-family: "nunito"
+    font-family: "nunito";
+    margin-bottom: 10px;
 }
